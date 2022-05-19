@@ -1,3 +1,5 @@
+This assessment was for my Introductiomn to Big Data Module.
+
 Learning Goals & Outcomes
 
 Learn to model, cleanse, normalize, shard, map, query and analyze substantial real-world data (230mb+);
@@ -17,5 +19,7 @@ Write a short, reflective report on the learning outcomes you have achieved.
 Get exposure to and learn the use of a range of data oriented technologies (databases, python & sql.)
 
 Learn and use the MARKDOWN markup syntax.
+
+DATA is in a zipped file.
 
 
