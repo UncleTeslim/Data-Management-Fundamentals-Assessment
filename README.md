@@ -1,4 +1,4 @@
-This assessment was for my Introductiomn to Big Data Module.
+This assessment was for my Introduction to Big Data Module.
 
 Learning Goals & Outcomes
 
